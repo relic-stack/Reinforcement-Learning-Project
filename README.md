@@ -1,4 +1,4 @@
-# Reinforcement-Learning-Coursework
+# Reinforcement-Learning Project
 
 
 # Sample-Efficient Bipedal Walker Learning with TD7
@@ -45,4 +45,5 @@ This project presents a sample-efficient continuous-control solution that extend
 
 ---
 
-*For the complete write-up, theoretical background, and full benchmark plots, read the complete paper: [BGilroy-agent-paper.pdf](BGilroy-agent-paper.pdf)
+Note: In compliance with university academic regulations, the source code for this project is maintained in a private repository.
+*For the complete write-up, theoretical background, and full benchmark plots, read the paper: [BGilroy-agent-paper.pdf](BGilroy-agent-paper.pdf)
